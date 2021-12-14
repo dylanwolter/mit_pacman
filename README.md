@@ -17,3 +17,7 @@ How to run/deploy:
 Roadmap:
 
 I might try to add some additional buttons and/or images with different colors or styles to add some variety to the types of Pac Men that can be created
+
+
+Lic:
+Please see root folder for License Information
